@@ -4,13 +4,13 @@
   "steps": [
     {
       "file": ".github/workflows/update-policy.yml",
-      "description": "This GitHub Action is responsible for syncing the policies from the upstream Enterprise-Scale repo into the ALZ-Bicep `lib` folders as explained here: https://github.com/Azure/ALZ-Bicep/wiki/PolicyDeepDive",
-      "line": 2
+      "description": "It runs every weekday at 0800 UTC",
+      "line": 6
     },
     {
       "file": ".github/workflows/update-policy.yml",
-      "description": "It runs every weekday at 0800 UTC",
-      "line": 6
+      "description": "This GitHub Action is responsible for syncing the policies from the upstream Enterprise-Scale repo into the ALZ-Bicep `lib` folders as explained here: https://github.com/Azure/ALZ-Bicep/wiki/PolicyDeepDive",
+      "line": 2
     },
     {
       "file": ".github/workflows/update-policy.yml",
